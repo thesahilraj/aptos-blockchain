@@ -1,5 +1,5 @@
 # First Contributions
 
-Caleb's Profile:
-- [Linkedin Profile](https://www.linkedin.com/in/caleb-chandrasekar/)
-- [Github Profile](https://github.com/calebjubal)
+Aditey's Profile:
+- [Linkedin Profile](https://www.linkedin.com/in/aditey-mehra/)
+- [Github Profile](https://github.com/incognito-unlimited)
