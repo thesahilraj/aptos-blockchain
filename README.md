@@ -1,5 +1,5 @@
 # First Contributions
 
-Tarun Profile:
-- [Linkedin Profile](https://www.linkedin.com/in/tarunnokwal/))
-- [Github Profile](https://github.com/tarun-hu)
+## Caleb's Profile
+- [Linkedin Profile](https://www.linkedin.com/in/caleb-chandrasekar/)
+- [GitHub Profile](https://github.com/calebjubal)
