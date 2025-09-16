@@ -1,5 +1,5 @@
 # First Contributions
 
-## Caleb's Profile
-- [Linkedin Profile](https://www.linkedin.com/in/caleb-chandrasekar/)
-- [GitHub Profile](https://github.com/calebjubal)
+## Suyash's Profile
+- [Linkedin Profile](https://www.linkedin.com/in/suyash-sahu-3b5813278/)
+- [GitHub Profile](https://github.com/7uyash)
