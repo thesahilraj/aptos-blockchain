@@ -1,13 +1,14 @@
 [package]
-name = "AptosEvent"
+name = "AptosProject"
 version = "1.0.0"
 authors = []
 
 [addresses]
-SendMessage = "_"
+std = "0x1"
+admin = "_"
 
 [dev-addresses]
-SendMessage = "0x5ef8cfb961c1b871c2f46d7902a5f9ac3ca2e26d9e8cfe97a7a51c797a402d90"
+admin = "0xa6881f423154aa1a074d03f4622b155b6befd583d1259427c53d01971608d0bf"
 
 [dependencies.AptosFramework]
 git = "https://github.com/aptos-labs/aptos-framework.git"
