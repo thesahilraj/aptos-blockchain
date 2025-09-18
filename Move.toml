@@ -1,0 +1,17 @@
+[package]
+name = "AptosEvent"
+version = "1.0.0"
+authors = []
+
+[addresses]
+SendMessage = "_"
+
+[dev-addresses]
+SendMessage = "0x5ef8cfb961c1b871c2f46d7902a5f9ac3ca2e26d9e8cfe97a7a51c797a402d90"
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
